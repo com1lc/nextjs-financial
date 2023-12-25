@@ -16,3 +16,16 @@ Now, try it out. You should be able to log in and out of your application using 
 Email: user@nextmail.com
 
 Password: 123456
+
+Overview
+
+This is app using the following stack:
+
+Framework - Next.js 14
+Language - TypeScript
+Auth - NextAuth.js
+Database - Vercel Postgres
+Deployment - Vercel
+Styling - Tailwind CSS
+Linting - ESLint
+Formatting - Prettier
